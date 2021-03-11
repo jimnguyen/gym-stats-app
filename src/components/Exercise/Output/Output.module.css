@@ -1,7 +1,8 @@
 .Output {
   font-size: 18px;
   border: 1px solid lightgrey;
-  border-radius: 3px;
-  margin: 15px 15px;
+  border-radius: 8px;
+  margin-top: 20px;
   padding: 5px 5px 5px 20px;
+  background-color: white;
 }
